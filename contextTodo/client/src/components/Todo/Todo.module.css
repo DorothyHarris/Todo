@@ -1,0 +1,49 @@
+.todoContainer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 10px 0;
+}
+
+.editContainer {
+	display: flex;
+	align-items: center;
+}
+
+.editInput {
+	line-height: 30px;
+	font-size: 20px;
+	border: none;
+	outline: none;
+}
+
+.todoTitle {
+	font-size: 20px;
+	width: 300px;
+	display: flex;
+	text-align: left;
+}
+
+.completed {
+	text-decoration: line-through;
+	color: grey;
+}
+
+.buttonContainer {
+	display: flex;
+	gap: 10px;
+}
+
+.checkButton,
+.deleteButton,
+.editButton {
+	background: none;
+	border: none;
+	cursor: pointer;
+}
+
+.checkButton {
+	color: #81cfbc;
+	outline: none;
+	border: none;
+}

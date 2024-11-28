@@ -18,5 +18,5 @@ Todo App – это простое и интуитивно понятное пр
 
 - **Frontend:** CSS, JavaScript
 - **Библиотеки:** [React]
-- **Backend:** Node.js, Express (при наличии сервера)
+- **Backend:** Node.js, Express
 - **База данных:** [PostgreSQL]
